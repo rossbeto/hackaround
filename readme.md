@@ -11,3 +11,6 @@
 
 ### Query Fixed Length
 [Query Fixed Length](query_fixed_length.md)
+
+### Matrix Rotation
+[Matrix Rotation](matrix_rotation_algo.md)
