@@ -5,3 +5,6 @@
 
 ### Truck Tour
 [Truck Tour](truck_tour.md)
+
+### Simple Text Editor
+[Simple Text Editor](simple_text_editor.md)
