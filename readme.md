@@ -2,3 +2,6 @@
 
 ### Work Schedule
 [Work Schedule](work_schedule.md)
+
+### Truck Tour
+[Truck Tour](truck_tour.md)
