@@ -91,5 +91,5 @@ For `1. append` and `2. delete`, we just put them in the buffer. Put it in anoth
 When we hit a `4. undo`, we just need to unload one Operation in the buffer ( if the buffer is not empty)
 For `3. print`, this is the Operation that affect the output. So when there is one `3. print`, we need to execute the buffer to get the value. 
 
-The implementation is in (simple_text_editor)[simple_text_editor.py]
+The implementation is in [simple_text_editor](simple_text_editor.py)
 
